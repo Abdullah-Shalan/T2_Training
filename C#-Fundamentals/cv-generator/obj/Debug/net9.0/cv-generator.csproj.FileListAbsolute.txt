@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/bin/Debug/net9.0/cv-generator
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/bin/Debug/net9.0/cv-generator.deps.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/bin/Debug/net9.0/cv-generator.runtimeconfig.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/bin/Debug/net9.0/cv-generator.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/bin/Debug/net9.0/cv-generator.pdb
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.AssemblyInfo.cs
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.sourcelink.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/refint/cv-generator.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.pdb
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/cv-generator.genruntimeconfig.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/cv-generator/obj/Debug/net9.0/ref/cv-generator.dll
