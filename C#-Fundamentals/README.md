@@ -1,0 +1,1 @@
+This Repository contains all my word during summer coop training @ T2 company.
