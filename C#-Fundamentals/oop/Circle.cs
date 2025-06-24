@@ -5,9 +5,4 @@ class Circle : Shape
     {
         Console.WriteLine($"Circle with radius {radius} Area is {3.14 * radius * radius}");        
     }
-
-    public void test()
-    {
-        Console.WriteLine($"Height: {height}");
-    }
 }
