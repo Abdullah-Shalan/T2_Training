@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/bin/Debug/net9.0/Data-Structures
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/bin/Debug/net9.0/Data-Structures.deps.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/bin/Debug/net9.0/Data-Structures.runtimeconfig.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/bin/Debug/net9.0/Data-Structures.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/bin/Debug/net9.0/Data-Structures.pdb
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.AssemblyInfo.cs
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.sourcelink.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/refint/Data-Structures.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.pdb
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/Data-Structures.genruntimeconfig.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Data-Structures/obj/Debug/net9.0/ref/Data-Structures.dll
