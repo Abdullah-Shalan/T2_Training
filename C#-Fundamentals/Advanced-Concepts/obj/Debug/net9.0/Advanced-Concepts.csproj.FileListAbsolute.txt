@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/bin/Debug/net9.0/Advanced-Concepts
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/bin/Debug/net9.0/Advanced-Concepts.deps.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/bin/Debug/net9.0/Advanced-Concepts.runtimeconfig.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/bin/Debug/net9.0/Advanced-Concepts.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/bin/Debug/net9.0/Advanced-Concepts.pdb
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.AssemblyInfo.cs
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.sourcelink.json
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/refint/Advanced-Concepts.dll
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.pdb
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/Advanced-Concepts.genruntimeconfig.cache
+/Users/abdullah/Desktop/T2_Training/C#-Fundamentals/Advanced-Concepts/obj/Debug/net9.0/ref/Advanced-Concepts.dll
