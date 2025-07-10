@@ -1,4 +1,4 @@
 testing-sqlserver/
-EntityFramework/
+EntityFramework/EFECore
 test.sql
 .DS_STORE
