@@ -1,4 +1,5 @@
 testing-sqlserver/
-EntityFramework/EFECore
+EntityFramework/
+C#-Fundamentals/
 test.sql
 .DS_STORE
