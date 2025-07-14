@@ -1,5 +1,6 @@
 testing-sqlserver/
 EntityFramework/
 C#-Fundamentals/
+.vscode/
 test.sql
 .DS_STORE
