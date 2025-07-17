@@ -1,0 +1,27 @@
+@model IEnumerable<MVC_EF.Models.Customer>
+<table>
+
+
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id) </th>
+            <th>@Html.DisplayNameFor(model => model.Name) </th>
+            <th>@Html.DisplayNameFor(model => model.Amount) </th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var Customer in Model)
+    {
+        <tr>
+            <td>@Customer.Id </td>
+            <td> @Customer.Name </td>
+            <td> @Customer.Amount </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@Customer.Id"> Edit </a> |
+                <a asp-action="Delete" asp-route-id="@Customer.Id"> Delete </a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<a href="@Url.Action("AddCustomer", "Customer")">Add Customer!</a>

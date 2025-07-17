@@ -1,5 +1,5 @@
 testing-sqlserver/
-EntityFramework/
+EntityFramework/EFECore
 C#-Fundamentals/
 .vscode/
 test.sql
