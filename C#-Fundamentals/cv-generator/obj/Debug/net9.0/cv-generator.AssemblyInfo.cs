@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cv-generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351c28315b21e41175ed44546a71b21b043be62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce002d3c55af9cd46c9167aed0824433e779969")]
 [assembly: System.Reflection.AssemblyProductAttribute("cv-generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cv-generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

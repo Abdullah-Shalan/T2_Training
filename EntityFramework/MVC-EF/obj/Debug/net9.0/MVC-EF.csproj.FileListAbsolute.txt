@@ -229,3 +229,4 @@
 /Users/abdullah/Desktop/T2_Training/EntityFramework/MVC-EF/obj/Debug/net9.0/MVC-EF.pdb
 /Users/abdullah/Desktop/T2_Training/EntityFramework/MVC-EF/obj/Debug/net9.0/MVC-EF.genruntimeconfig.cache
 /Users/abdullah/Desktop/T2_Training/EntityFramework/MVC-EF/obj/Debug/net9.0/ref/MVC-EF.dll
+/Users/abdullah/Desktop/T2_Training/EntityFramework/MVC-EF/bin/Debug/net9.0/Newtonsoft.Json.dll

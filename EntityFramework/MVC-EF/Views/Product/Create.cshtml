@@ -1,0 +1,20 @@
+@model MVC_EF.Models.Product
+
+<h2>Create New Product</h2>
+
+<form asp-action="Create" method="post">
+
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name)
+    <br />
+
+    @Html.LabelFor(m => m.Price)
+    @Html.TextBoxFor(m => m.Price)
+    <br />
+
+    <input type="submit" value="Create" />
+</form>
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
